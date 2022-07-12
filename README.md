@@ -1,4 +1,4 @@
 # CoolPricingTable_1
 Responsive Pricing table using HTML and CSS
 
-<img width="1173" alt="pricingTable" src="https://user-images.githubusercontent.com/61027817/178561965-1a54365c-ee16-4836-ade9-796f0e80983f.png">
+<img width="1478" alt="pricingTable" src="https://user-images.githubusercontent.com/61027817/178562345-0fd2df73-498f-4a7a-ba1a-339a978faf8c.png">
